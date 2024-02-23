@@ -1,0 +1,30 @@
+1. Write a C function to calculate the sum of two integers.
+2. Create a function to find the maximum of three numbers in C.
+3. Implement a function to calculate the factorial of a non-negative integer in C.
+4. Write a C function to check if a given number is prime or not.
+5. Create a function to reverse a given integer in C.
+6. Implement a function to check if a given string is a palindrome in C.
+7. Write a function to calculate the power of a number using recursion in C.
+8. Create a C function to find the Fibonacci series up to a given limit.
+9. Implement a function to calculate the sum of elements in an array in C.
+10. Write a C function to find the average of elements in an array.
+11. Create a function to concatenate two strings in C.
+12. Implement a function to convert a string to lowercase in C.
+13. Write a function to swap two numbers using call by reference in C.
+14. Create a function to find the GCD (Greatest Common Divisor) of two numbers in C.
+15. Implement a function to sort an array of integers in ascending order in C.
+16. Write a C function to count the number of vowels in a string.
+17. Create a function to generate a random number within a given range in C.
+18. Implement a function to check if a given year is a leap year in C.
+19. Write a function to calculate the square root of a given number using Newton's method in C.
+20. Create a C function to find the length of a string.
+21. Implement a function to reverse a string in C without using any library function.
+22. Write a function to find the sum of digits of a given number in C.
+23. Create a function to check if two strings are anagrams in C.
+24. Implement a function to convert a decimal number to binary in C.
+25. Write a C function to remove all spaces from a string.
+26. Create a function to check if a given string contains only digits in C.
+27. Implement a function to perform matrix addition in C.
+28. Write a function to calculate the area of a circle given its radius in C.
+29. Create a C function to generate the nth Fibonacci number using memoization.
+30. Implement a function to calculate the factorial of a number using iteration in C.
