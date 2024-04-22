@@ -1,4 +1,4 @@
-//Write a C function to find the average of elements in an array.
+   //Write a C function to find the average of elements in an array.
 
 #include <stdio.h>
 
